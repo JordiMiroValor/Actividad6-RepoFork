@@ -30,7 +30,14 @@ public class Mensajes {
 	
 	// Pon tu método a partir de aqui
 	
+	public static void jordi1X4X(){
+		System.out.println("====================================");
+		System.out.println("Hola, soc Jordi ");
+		System.out.println("FELIÇ ANY 2020 !!!!!!");
+		System.out.println("====================================");
+		System.out.println();	
 	
+	}
 	
 	
 }
